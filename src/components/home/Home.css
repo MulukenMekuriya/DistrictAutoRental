@@ -1,0 +1,89 @@
+.home {
+  height: 1073px;
+  background-image: url("/public/main-image.png");
+  background-size: contain;
+  top: 7px;
+  left: 0px;
+  height: 1073px;
+  background-color: #000000;
+}
+
+.welcomeText {
+  position: absolute;
+  /* Layout Properties */
+  /* top: -287px; */
+  /* left: 1069px; */
+  width: 166px;
+  height: 25px;
+  /* UI Properties */
+  text-align: left;
+  letter-spacing: 0px;
+  color: #ff6600;
+  opacity: 1;
+  font-family: JosefinSans-Bold;
+}
+
+.brandText {
+  position: absolute;
+  /* top: -305px; */
+  left: 1070px;
+  width: 507px;
+  height: 128px;
+  color: var(--unnamed-color-ffffff);
+  text-align: left;
+  letter-spacing: 1.93px;
+  color: #ffffff;
+  opacity: 1;
+  font-family: PlayfairDisplay-Bold;
+}
+
+.firstVehicle {
+  position: absolute;
+  background-image: url("./../../assets/mask-group-1@2x.png");
+  background-size: contain;
+  top: 1366px;
+  width: 385px;
+  height: 517px;
+  opacity: 1;
+}
+
+.secondVehicle {
+  position: absolute;
+  background-image: url("./../../assets/mask-group-2@2x.png");
+  background-size: contain;
+  top: 1366px;
+  width: 385px;
+  height: 517px;
+  opacity: 1;
+}
+
+.thirdVehicle {
+  position: absolute;
+  background-image: url("./../../assets/mask-group-3@2x.png");
+  background-size: contain;
+  top: 1366px;
+  width: 385px;
+  height: 517px;
+  opacity: 1;
+}
+
+.fourthehicle {
+  position: absolute;
+  background-image: url("./../../assets/mask-group-4@2x.png");
+  background-size: contain;
+  top: 1366px;
+  width: 385px;
+  height: 517px;
+  opacity: 1;
+}
+
+.home3Vehicle {
+  z-index: 1;
+  position: absolute;
+  background-image: url("./../../assets/2010-nissan-rogue-gray.png");
+  background-size: contain;
+  width: 676px;
+  height: 486px;
+  /* background: transparent url("img/Image 3.png") 0% 0% no-repeat padding-box; */
+  opacity: 1;
+}
