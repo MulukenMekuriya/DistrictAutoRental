@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70813712.css",
+    "main.js": "/static/js/main.8e8d6431.js",
+    "static/js/453.5790f0d3.chunk.js": "/static/js/453.5790f0d3.chunk.js",
+    "static/media/main-image.png": "/static/media/main-image.b392d8b4f57c740dd4a4.png",
+    "static/media/mask-group-3@2x.png": "/static/media/mask-group-3@2x.b5e18e6c389be6439c5b.png",
+    "static/media/mask-group-4@2x.png": "/static/media/mask-group-4@2x.be81814272c7468f67c6.png",
+    "static/media/mask-group-2@2x.png": "/static/media/mask-group-2@2x.5e55b6ef466fcaa2b15e.png",
+    "static/media/mask-group-1@2x.png": "/static/media/mask-group-1@2x.3901864bf474cfdda06c.png",
+    "static/media/2010-nissan-rogue-gray.png": "/static/media/2010-nissan-rogue-gray.9d20c68d73c2a4732a33.png",
+    "index.html": "/index.html",
+    "main.70813712.css.map": "/static/css/main.70813712.css.map",
+    "main.8e8d6431.js.map": "/static/js/main.8e8d6431.js.map",
+    "453.5790f0d3.chunk.js.map": "/static/js/453.5790f0d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70813712.css",
+    "static/js/main.8e8d6431.js"
+  ]
+}
